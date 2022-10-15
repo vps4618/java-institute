@@ -1,0 +1,1 @@
+# java program එකක් run වෙනකොට අපි වෙනුවෙන් අපේ ජාවා ප්‍රෝග්‍රෑම් වැඩ කරවන්නෙ ජාවා java virtual machine (JVM) එක.
