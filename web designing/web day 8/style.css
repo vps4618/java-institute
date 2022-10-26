@@ -1,0 +1,16 @@
+.b{
+    width: 100%;
+    height: 100vh;
+    background-image: url("background.png");
+    background-size: cover;
+}
+
+.body{
+    margin: 0px;
+}
+
+.boy{
+    height: 250px;
+    margin-top: 290px;
+    position: absolute;
+}
